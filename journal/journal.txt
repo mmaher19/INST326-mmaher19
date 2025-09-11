@@ -7,3 +7,5 @@ useful and readable information. I asked Claude a real world example of a resear
 Genomic Surveillance pipeline, where laboratories across the globe monitored / monitor patients and upload genome data to databases 
 along with metadata. Overall, Claude played a crucial part in further explaining what my group will be doing, and clarified some 
 questions I had about what real world applications these skills will allow me to do.
+
+Link: https://claude.ai/share/7e55d9c9-b43c-4279-bf29-25b3eef818b0
