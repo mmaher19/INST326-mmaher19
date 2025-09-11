@@ -1,3 +1,9 @@
 Week 1
 
-I asked ClaudeAI to summarize what Research Data Pipeline Framework is. I asked specifically about data cleaning and validation, as well as how it might be automated with Python as the coding language and using automation tools such as Selenium or Playwright. Claude explained how orchestration is crucial in understanding the raw data gathered from the source, and transforming it into useful and readable information. I asked Claude a real world example of a research data pipeline and it responded with the COVID-19 Genomic Surveillance pipeline, where laboratories across the globe monitored / monitor patients and upload genome data to databases along with metadata. Overall, Claude played a crucial part in further explaining what my group will be doing, and clarified some questions I had about what real world applications these skills will allow me to do.
+I asked ClaudeAI to summarize what Research Data Pipeline Framework is. I asked specifically about data cleaning and validation, 
+as well as how it might be automated with Python as the coding language and using automation tools such as Selenium or Playwright. 
+Claude explained how orchestration is crucial in understanding the raw data gathered from the source, and transforming it into 
+useful and readable information. I asked Claude a real world example of a research data pipeline and it responded with the COVID-19 
+Genomic Surveillance pipeline, where laboratories across the globe monitored / monitor patients and upload genome data to databases 
+along with metadata. Overall, Claude played a crucial part in further explaining what my group will be doing, and clarified some 
+questions I had about what real world applications these skills will allow me to do.
