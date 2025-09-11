@@ -8,4 +8,9 @@ Genomic Surveillance pipeline, where laboratories across the globe monitored / m
 along with metadata. Overall, Claude played a crucial part in further explaining what my group will be doing, and clarified some 
 questions I had about what real world applications these skills will allow me to do.
 
+My project group member Elijah Sherrick used AI to find out what the key components to Research Data Pipeline Framework are. From AI,
+he learned that data sources, ingestion layer, processing/transformation, storage, distribution, monitoring, and orchestration are the
+biggest key components to our topic. He used ClaudeAI as well to do this, and after learning about these components, he asked a few deeper
+questions to comprehend it fully.
+
 Link: https://claude.ai/share/7e55d9c9-b43c-4279-bf29-25b3eef818b0
