@@ -14,3 +14,12 @@ biggest key components to our topic. He used ClaudeAI as well to do this, and af
 questions to comprehend it fully.
 
 Link: https://claude.ai/share/7e55d9c9-b43c-4279-bf29-25b3eef818b0
+
+Week 2
+
+This week I missed lecture due to illness which presented an excellent opportunity to have a lengthy conversation with ClaudeAI. 
+I redeemed the free year of Claude premium with my student email and decided to go all in by teaching it about myself and my 
+background, establishing my skills and weaknesses. I made sure that it saves these things to memory so it will always remember 
+the context of the situation, not mistakingly thinking I'm actually coding for a business or organization. Additionally, I asked Claude about
+my illness, and it accurately diagnosed what it ended up being (common cold). So far I have been keeping up with using it and building
+up the relationship with this AI tool. 
