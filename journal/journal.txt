@@ -23,3 +23,11 @@ background, establishing my skills and weaknesses. I made sure that it saves the
 the context of the situation, not mistakingly thinking I'm actually coding for a business or organization. Additionally, I asked Claude about
 my illness, and it accurately diagnosed what it ended up being (common cold). So far I have been keeping up with using it and building
 up the relationship with this AI tool. 
+
+Week 3
+9/28/2025
+
+This week I used TerpAI to create a cover letter for an open internship position at Microsoft. I was instructed to use TerpAI
+by my Professional Writing Professor, and to create my own cover letter without the help of AI and then compare the two. I 
+was pleasantly surprised by TerpAI, as it produces a very good cover letter. The main drawback was that it included a lot of 
+unneccessary info from my resume. Overall, AI helped me in that class and helped me to write a better cover letter.
