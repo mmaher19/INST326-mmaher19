@@ -37,3 +37,13 @@ Week 4
 This week I used ClaudeAI to help me study for my Astronomy exam. I gave it a bunch of the lecture notes as well as my
 own notes that I took in class based on what topics the Professor said were important. Claude helped me out a ton
 by giving me sample questions on what could be asked, as well as clarifying particularlu challenging material.
+
+Week 5
+10/10/2025
+This week I used AI in several different ways, mainly in my personal life rather than educational. First of all,
+I used Claude to help me decide what fantasy football players to start. I knew going in that Claude would respond very
+factually with statistically correct choices, but I spoke to it a little more about potential breakout performances
+and teams/players that are on the rise but the stats aren't there yet. In the end, I ended up doing very well
+and won in most of my fantasy football leagues. I also asked AI some housekeeping questions like what chemicals I 
+should use to clean a spill, as well as some laundry advice. Overall, definitely pleased with Claude in the personal and 
+educational sense and have integrated into my life consistently.
