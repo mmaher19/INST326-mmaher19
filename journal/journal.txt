@@ -45,5 +45,13 @@ I used Claude to help me decide what fantasy football players to start. I knew g
 factually with statistically correct choices, but I spoke to it a little more about potential breakout performances
 and teams/players that are on the rise but the stats aren't there yet. In the end, I ended up doing very well
 and won in most of my fantasy football leagues. I also asked AI some housekeeping questions like what chemicals I 
-should use to clean a spill, as well as some laundry advice. Overall, definitely pleased with Claude in the personal and 
-educational sense and have integrated into my life consistently.
+should use to clean a spill, as well as some laundry advice. Overall, definitely pleased with Claude in the personal and educational sense and have integrated into my life consistently.
+
+Week 6
+10/23/2025
+This week I used AI in INST327. In this class we are learning SQL, and on the most recent assignment, before writing 
+the query, we were instructed to use AI to try it first with limited context and details. Obviously, ChatGPT (the 
+agent specified to be used) got it way wrong. The professor emphasized that it can't be depended on completely, and 
+also mentioned that in real life, data is sensitive, so you can't just give it your whole dataset and have it write 
+queries for you at risk of leaking data. Overall, it was interesting to see and hear how AI is used and will be used 
+in that class, and I am prepared to have it help me learn SQL in addition to Python.
