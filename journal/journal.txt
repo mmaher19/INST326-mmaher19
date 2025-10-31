@@ -56,3 +56,6 @@ agent specified to be used) got it way wrong. The professor emphasized that it c
 also mentioned that in real life, data is sensitive, so you can't just give it your whole dataset and have it write 
 queries for you at risk of leaking data. Overall, it was interesting to see and hear how AI is used and will be used 
 in that class, and I am prepared to have it help me learn SQL in addition to Python.
+
+Week 7
+10/30/2025
