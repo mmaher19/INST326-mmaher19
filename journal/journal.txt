@@ -58,4 +58,10 @@ queries for you at risk of leaking data. Overall, it was interesting to see and 
 in that class, and I am prepared to have it help me learn SQL in addition to Python.
 
 Week 7
-10/30/2025
+11/1/2025
+This week I used AI to help me study for two different exams. I used ChatGPT since it tends to be more reader friendly
+and uses easy to understand terms. I inputted my study guides and some past assignments. ChatGPT gave me a ton of extra
+elaboration on course concepts that I was iffy about, and then finally it gave me a better study guide where I would answer
+the prompts and it would grade me based on the rubrics for the exams. Even though ChatGPT thinks differently than a professor
+it still helped me figure out what areas of my writing were lacking, and it gave me even more questions based on the ones
+I was getting wrong.
