@@ -65,3 +65,10 @@ elaboration on course concepts that I was iffy about, and then finally it gave m
 the prompts and it would grade me based on the rubrics for the exams. Even though ChatGPT thinks differently than a professor
 it still helped me figure out what areas of my writing were lacking, and it gave me even more questions based on the ones
 I was getting wrong.
+
+Week 8
+11/9/2025
+This week I used AI to help me with week 8 exercises. I ran into a few different issues when writing demos for the code that
+I had programmed. It (ClaudeAI), was extremely helpful and made the exercises a lot simpler to understand. Other than that,
+I didn't really use AI much this week except here and there for random questions. I feel that Claude is better at 
+understanding what I am asking the more that I use it.
