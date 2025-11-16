@@ -72,3 +72,12 @@ This week I used AI to help me with week 8 exercises. I ran into a few different
 I had programmed. It (ClaudeAI), was extremely helpful and made the exercises a lot simpler to understand. Other than that,
 I didn't really use AI much this week except here and there for random questions. I feel that Claude is better at 
 understanding what I am asking the more that I use it.
+
+Week 9
+11/15/2025
+This week I used AI to help me understand my SQL homework in INST327. One of the questions 
+required to ask AI to produce queries with limited context. The point was to see if AI 
+would get the query commands correct without seeing the actual database information. Claude 
+pretty much nailed it and I only had to edit it a little bit to produce the desired output. 
+I also used it on the same assignment because one of my queries was outputting 117 rows 
+when it was only supposed to output 114 and it helped me troubleshoot.
