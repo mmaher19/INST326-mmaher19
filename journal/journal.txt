@@ -79,5 +79,12 @@ This week I used AI to help me understand my SQL homework in INST327. One of the
 required to ask AI to produce queries with limited context. The point was to see if AI 
 would get the query commands correct without seeing the actual database information. Claude 
 pretty much nailed it and I only had to edit it a little bit to produce the desired output. 
+
+Week 10
+11/23/2025
+This week I used AI to come up with app ideas for myself. I have been using the Apple Macbook App
+"XCode" to learn how to create my own app. I told Claude my interests, and it suggested a unique
+idea to relate to my golf hobby. It also helped me gets started with the unique way to program an
+IOS application.
 I also used it on the same assignment because one of my queries was outputting 117 rows 
 when it was only supposed to output 114 and it helped me troubleshoot.
