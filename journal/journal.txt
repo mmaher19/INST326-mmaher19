@@ -88,3 +88,11 @@ idea to relate to my golf hobby. It also helped me gets started with the unique 
 IOS application.
 I also used it on the same assignment because one of my queries was outputting 117 rows 
 when it was only supposed to output 114 and it helped me troubleshoot.
+
+Week 12
+12/7/2025
+This week I used AI to help me with my grades. Although there are certain UMD resources to help
+calculate potential GPA based on the weight of certain credits, I used AI to help me determine what
+grades I need in each class in order to get my desired grade. For example, I told Claude my current grades,
+the grade distribution of the specific class, and my desired grade. It helped me develop a plan for what classes
+to devote more studying time to for finals.
