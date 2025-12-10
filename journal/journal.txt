@@ -96,3 +96,11 @@ calculate potential GPA based on the weight of certain credits, I used AI to hel
 grades I need in each class in order to get my desired grade. For example, I told Claude my current grades,
 the grade distribution of the specific class, and my desired grade. It helped me develop a plan for what classes
 to devote more studying time to for finals.
+
+Week 13
+12/10/2025
+This week I used Claude in our final group project for this class. I used Claude to refine our Research Data Pipeline
+Framework, and it caught a lot of things that we let slip through the cracks. I told Claude what was expected of us for
+the code and the overall project and it understood it completely after just a few prompts. It also made some suggestions
+that we might implement before the due date, but we haven't added them to the actual code in the repo. I've also been using
+AI in general to help me study for my finals next week.
